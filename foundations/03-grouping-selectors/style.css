@@ -1,0 +1,14 @@
+.FirstB
+.SecondB {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.FirstB {
+    background-color: black;
+    color: white;
+}
+
+.SecondB {
+    background-color: yellow;
+}
